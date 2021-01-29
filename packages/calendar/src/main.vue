@@ -3,7 +3,6 @@
  * @Date: 2021-01-29 11:04:40
  * @LastEditors: zhangyun
  * @LastEditTime: 2021-01-29 16:57:38
- * @FilePath: /react-admin-demo/Users/snake/Desktop/OWN_PROJECT/COMPONENTS_LIBRAY/lib_vue/packages/calendar/src/main.vue
 -->
 <template>
   <div class="calendar">
